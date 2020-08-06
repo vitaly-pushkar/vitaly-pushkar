@@ -24,4 +24,5 @@ I enjoy learning about Functional Programming and applying it to real problems. 
 That said, I believe there is no better tool for quickly iterating a new web project than Ruby on Rails, which I’ve been using on and off for years.
 
 Occasionally, I blog at [nywkap.com](http://nywkap.com).
-The author of the [techleadcompass.com](https://techleadcompass.com)
+
+🧭 Author of the [techleadcompass.com](https://techleadcompass.com)
