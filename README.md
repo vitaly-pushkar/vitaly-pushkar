@@ -21,4 +21,4 @@ My passion is in building and improving processes that enable teams to move fast
 
 Occasionally, I blog at [nywkap.com](http://nywkap.com).
 
-🧭 Author of the [hackerstations.com](https://hackerstations.com)
+Author of the [hackerstations.com](https://hackerstations.com)
